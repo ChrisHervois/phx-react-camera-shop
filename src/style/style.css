@@ -1,0 +1,25 @@
+body {
+  background-color: #9099A2
+}
+.cart {
+  position: sticky;
+  top: 0;
+  background-color: #D5D5D5;
+  padding: 2em;
+}
+.camera-list {
+  background-color: #D5D5D5;
+}
+.header {
+  background-color: #6D7993;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.cart-item {
+  background-color: #6D7993;
+  margin-bottom: 1em;
+}
+.camera {
+  margin-bottom: 1em;
+}
+
